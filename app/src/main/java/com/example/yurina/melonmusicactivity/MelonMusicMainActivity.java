@@ -132,7 +132,7 @@ public class MelonMusicMainActivity extends AppCompatActivity {
         datas.setAlbumimg("http://cdnimg.melon.co.kr/cm/album/images/101/48/752/10148752_500.jpg/melon/resize/120/quality/80/optimize");
         datas.setSongname("북 (Prod. SLO)");
         datas.setSinger("배연서 (WEBSTER B), 오담률 (CHIN CHILLA)");
-        datas.setAlbumname("");
+        datas.setAlbumname("고등래퍼2 팀대항전 Part.1");
         datas.setGood(R.mipmap.j);
 
         arrayList.add(datas);
